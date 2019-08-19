@@ -1,2 +1,2 @@
-FROM philzook58/jupyter-ocaml
+FROM philzook58/jupyter-bappin
 

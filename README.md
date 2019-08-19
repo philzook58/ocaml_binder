@@ -8,3 +8,4 @@ Setting up a jupyter ocaml environment for running on binder. CLick the icon abo
 
 `docker build --tag jupyter-ocaml Dockerfile.image`
 
+` docker build -t bap-notebook -f Dockerfile.image .`
